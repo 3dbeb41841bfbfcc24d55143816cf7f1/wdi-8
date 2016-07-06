@@ -1,5 +1,7 @@
 # ATL WDI #8
 
+Welcome to Atlanta's WDI #8!
+
 ## Instructors
 
 * John Mann
