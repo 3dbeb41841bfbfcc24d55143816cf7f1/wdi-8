@@ -4,7 +4,10 @@ Welcome to Atlanta's WDI #8!
 
 ## Instructors
 
-* John Mann
+* Dr. Mike Hopper
+  - Slack: @mike.hopper
+  - EMail: mike.hopper@ga.co
+  - GitHub: drmikeh - [GitHub](https://github.com/drmikeh)
 
 ## Links
 
