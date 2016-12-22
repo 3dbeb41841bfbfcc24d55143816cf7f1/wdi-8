@@ -1,4 +1,4 @@
-# ATL WDI #8
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Welcome to WDI 8
 
 #### Week 1 - Fundamentals
 
@@ -51,17 +51,19 @@ Time          | Monday-Friday    |
 3:00 - 4:30   | Afternoon Lesson | 
 4:30 - 5:00   | Office Hours     | 
 
-**Instructors** 
-Dr. Mike Hopper - mike.hopper@ga.co | [GitHub](https://github.com/drmikeh)
-Ben Manning - bmanning@me.com  
-Maren Woodruff - 
-Shawn Johnson - 
+**Instructors**
+
+- Dr. Mike Hopper - mike.hopper@ga.co | [GitHub](https://github.com/drmikeh)
+- Ben Manning - bmanning@me.com  
+- Maren Woodruff - 
+- Shawn Johnson - 
   
-**Slack**  
-Dr. Mike: @mike.hopper
-Ben: @ben.manning
-Maren: @marenwoodruff
-Shawn: @digitalsleep01   
+**Slack**
+
+- Dr. Mike: @mike.hopper
+- Ben: @ben.manning
+- Maren: @marenwoodruff
+- Shawn: @digitalsleep01   
 
 ## Links
 
