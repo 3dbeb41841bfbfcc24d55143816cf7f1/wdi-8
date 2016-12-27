@@ -1,5 +1,66 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Welcome to WDI 8
 
+#### Week 2 - Javascript/DOM
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day 5</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>WarmUp</strong></td>
+<td>Morning Exercise</td>
+<td>Morning Exercise</td>
+<td>Morning Exercise</td>
+<td>Morning Exercise</td>
+<td>Morning Exercise</td>
+</tr>
+<tr>
+<td><strong>Mod 1</strong></td>
+<td>Morning Gap</td>
+<td>Morning Gap</td>
+<td>Morning Gap</td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/javascript-expressions">JavaScript Expressions and DataTypes</a></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/js-functions">JavaScript Functions</a></td>
+</tr>
+<tr>
+<td><strong>Mod 2</strong></td>
+<td>Morning Gap</td>
+<td>Morning Gap</td>
+<td>Morning Gap</td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/javascript-control-flows">JavaScript Control Flow</a></td>
+<td><a href="https://github.com/den-wdi-2/js-functions-lab">LAB: JavaScript Functions</a></td>
+</tr>
+<tr>
+<td><strong>Mod 3</strong></td>
+<td>Afternoon Gap</td>
+<td>Afternoon Gap</td>
+<td>Afternoon Gap</td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/js-arrays-and-loops">JavaScript Arrays & Loops</a></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/js-objects-and-json">JavaScript Objects and JSON</a></td>
+</tr>
+<tr>
+<td><strong>Mod 4</strong></td>
+<td><a href="https://github.com/ATL-WDI-Exercises/the-last-samurai">LAB / Homework</a></td>
+<td><a href="https://github.com/ATL-WDI-Exercises/codestyle-and-linting">LAB - Code Style</a></td>
+<td>Afternoon Gap</td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/js-modern-array-methods">Array Methods</a></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/scope-and-context">Scope and Context</a></td>
+</tr>
+<tr>
+<td><strong>Training</strong></td>
+<td><a href="https://github.com/ATL-WDI-Exercises/progressive-tax-calc">Tax Calculator</a></td>
+<td>Homework</td>
+<td>Homework</td>
+<td>Homework</td>
+<td>Homework</td>
+</tr>
+</tbody></table>
+
 #### Week 1 - Fundamentals
 <table><thead>
 <tr>
