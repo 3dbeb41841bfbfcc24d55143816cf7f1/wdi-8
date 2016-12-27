@@ -12,29 +12,52 @@
 </tr>
 </thead><tbody>
 <tr>
-<td><strong>9:00am - 9:30am Warm Up</strong></td>
-<td><a href="https://github.com/sf-wdi-33/intro-ruby">Ruby Intro(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-33/ruby-koans">Ruby Koans(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-33/ruby-oop">Ruby OOP(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-33/rspec">RSpec(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-33/js-algorithms-drills/tree/master/binary-search">Ruby Review/Binary Search</a> </td>
+<td><strong>WarmUp</strong></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/big-goal-and-culture">Big Goal/Culture</a></td>
+<td>Morning Exercise</td>
+<td>Morning Exercise</td>
+<td>Morning Exercise</td>
+<td>Morning Exercise</td>
 </tr>
 <tr>
-<td><strong>9:30am - 12:30pm Morning Lesson</strong></td>
-<td><a href="https://github.com/sf-wdi-33/idiomatic-ruby">Idiomatic Ruby (Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-33/ruby-koans">Ruby Koans(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-33/ruby-oop">Ruby OOP/cars</a></td>
-<td>RSpec</td>
-<td><a href="https://github.com/sf-wdi-33/ruby-regular-expressions">Regular Expressions</a> &
-<a href="https://github.com/sf-wdi-33/username_generator">Username Generator</a></td>
+<td><strong>Mod 1</strong></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/student-laptop-requirements-and-setup">Laptop Requirements</a></td>
+<td>LAB - CLI</td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/css-flexbox">CSS Flexbox</a></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/local-and-remote-git">Local GIT</a></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/git-branching-and-github-pages">Git Branching</a></td>
 </tr>
 <tr>
-<td><strong>2:00pm - 5:30pm Afternoon Lesson</strong></td>
-<td><a href="https://github.com/sf-wdi-33/ruby-koans">Ruby Koans</a></td>
-<td><a href="https://github.com/sf-wdi-33/ruby_method_drills">Ruby Methods Drills (Justin</a></td>
-<td>Outcomes (Neda)</td>
-<td><a href="https://github.com/sf-wdi-33/go-fish-card-game">Go Fish(both)</a></td>
-<td><a href="https://github.com/sf-wdi-33/wheel_of_fortune">Wheel of Fortune(both)</a></td>
+<td><strong>Mod 2</strong></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/command-line">Intro to CLI</a></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/html-dom">HTML and DOM</a></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/css-responsive">Responsive CSS</a></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/local-and-remote-git">Local GIT continued</a></td>
+<td>Intro to SASS</td>
+</tr>
+<tr>
+<td><strong>Mod 3</strong></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/text-editors">Atom Editor</a></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/css-box-model">Intro to CSS and the Box Model</a></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/bootstrap-intro">Twitter Bootstrap</a></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/local-and-remote-git">Remote Git</a></td>
+<td>LAB Time</td>
+</tr>
+<tr>
+<td><strong>Mod 4</strong></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/text-editors">Atom Editor</a></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/css-selectors">CSS Selectors and Specificity</a></td>
+<td>LAB - CSS</td>
+<td>LAB - GIT</td>
+<td>Week 1 Retrospective</td>
+</tr>
+<tr>
+<td><strong>Training</strong></td>
+<td><a href="https://github.com/sf-wdi-27-28/command-line-mystery">Command Line</a></td>
+<td>Homework</td>
+<td>Homework</td>
+<td>Homework</td>
+<td>Homework</td>
 </tr>
 </tbody></table>
 
