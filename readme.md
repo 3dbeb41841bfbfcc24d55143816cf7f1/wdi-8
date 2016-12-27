@@ -1,5 +1,66 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Welcome to WDI 8
 
+#### Week 3 - DOM Manipulation/Project 1
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day 5</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>WarmUp</strong></td>
+<td>Morning Exercise</td>
+<td>Morning Exercise</td>
+<td>Morning Exercise</td>
+<td>Project One</td>
+<td>Project One</td>
+</tr>
+<tr>
+<td><strong>Mod 1</strong></td>
+<td>Review of JS Scope, Context, and Closures</td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/dom-manipulation-and-events">DOM Manipulation</a></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/jquery">jQuery</a></td>
+<td>Project One</td>
+<td>Project One</td>
+</tr>
+<tr>
+<td><strong>Mod 2</strong></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/js-codestyle">JavaScript Code Style</a></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/dom-manipulation-and-events">DOM Events</a></td>
+<td>LAB</td>
+<td>Project One</td>
+<td>Project One</td>
+</tr>
+<tr>
+<td><strong>Mod 3</strong></td>
+<td><a href="https://github.com/ATL-WDI-Curriculum/sdlc">SDLC / Agile</a></td>
+<td><a href="https://github.com/ga-wdi-lessons/js-debugging">Debugging / Dev Tools</a></td>
+<td>Sample Project Code Along</td>
+<td>Project One</td>
+<td>Project One</td>
+</tr>
+<tr>
+<td><strong>Mod 4</strong></td>
+<td><a href="https://github.com/ATL-WDI-Exercises/fizz-buzz">Technical Interview Code Along</a></td>
+<td>LAB</td>
+<td>Sample Project Code Along</td>
+<td>Project One</td>
+<td>Project One</td>
+</tr>
+<tr>
+<td><strong>Training</strong></td>
+<td><a href="https://github.com/ATL-WDI-Exercises/progressive-tax-calc">Tax Calculator</a></td>
+<td>Homework</td>
+<td>Homework</td>
+<td>Project One</td>
+<td>Project One</td>
+</tr>
+</tbody></table>
+
 #### Week 2 - Javascript/DOM
 <table><thead>
 <tr>
