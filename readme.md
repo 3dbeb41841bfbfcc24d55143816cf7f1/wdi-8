@@ -1,5 +1,66 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Welcome to WDI 8
 
+#### Week 4b - NodeJS, Express, Mongoose
+<table><thead>
+  <tr>
+    <th>Time</th>
+    <th>Day 1</th>
+    <th>Day 2</th>
+    <th>Day 3</th>
+    <th>Day 4</th>
+    <th>Day 5</th>
+  </tr>
+</thead><tbody>
+  <tr>
+    <td><strong>WarmUp</strong></td>
+    <td>Morning Exercise/Review</td>
+    <td>Morning Exercise/Review</td>
+    <td>Morning Exercise/Review</td>
+    <td>Morning Exercise/Review</td>
+    <td>Morning Exercise/Review</td>
+  </tr>
+  <tr>
+    <td><strong>Mod 1</strong></td>
+    <td>Project 1 Retrospective</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/node-module-system">Modules Lab and JavaScript OOP</a></td>
+    <td>RESTful Routing with Express</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/mongo-nosql-intro-lesson">Intro to NoSQL and MongoDB</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/express-mongoose-modelling">Mongoose Associations</a></td>
+  </tr>
+  <tr>
+    <td><strong>Mod 2</strong></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/es6">Introduction to ES6</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/node-express-intro-lesson">Intro to Express</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/express-generator">Intro to the Express Generator</a></td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/mongo-pokemon">LAB - MongoDB</a></td>
+    <td>Mongoose Associations</td>
+  </tr>
+  <tr>
+    <td><strong>Mod 3</strong></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/mean-stack-intro">Intro to the MEAN Stack</a></td>
+    <td><a href="https://github.com/ga-wdi-exercises/compliment-express">Express Routes Lab</a></td>
+    <td>LAB: Build Something with Express Generator</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/mongoose">Intro to Mongoose</a></td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/express-node-mongoose-lab">LAB - Mongoose Associations</a></td>
+  </tr>
+  <tr>
+    <td><strong>Mod 4</strong></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/node-intro">Intro to NodeJS</a></td>
+    <td><a href="https://github.com/ga-wdi-exercises/compliment-express">Express Routes Lab</a></td>
+    <td>LAB: Build Something with Express Generator</td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/express-node-mongoose-lab">LAB - Mongoose</a></td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/express-node-mongoose-lab">LAB - Mongoose Associations</a></td>
+  </tr>
+  <tr>
+    <td><strong>Training</strong></td>
+    <td>Homework/Review</td>
+    <td>Homework/Review</td>
+    <td>Homework/Review</td>
+    <td>Homework/Review</td>
+    <td>Homework/Review</td>
+  </tr>
+</tbody></table>
+
 #### Week 4a- Project 1/Thanksgiving Break
 <table><thead>
 <tr>
