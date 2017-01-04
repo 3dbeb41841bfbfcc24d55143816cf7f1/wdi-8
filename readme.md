@@ -1,5 +1,66 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Welcome to WDI 8
 
+#### Week 7 - AngularJS
+<table><thead>
+  <tr>
+    <th>Time</th>
+    <th>Day 1</th>
+    <th>Day 2</th>
+    <th>Day 3</th>
+    <th>Day 4</th>
+    <th>Day 5</th>
+  </tr>
+</thead><tbody>
+  <tr>
+    <td><strong>WarmUp</strong></td>
+    <td>Morning Exercise/Review</td>
+    <td>Morning Exercise/Review</td>
+    <td>Morning Exercise/Review</td>
+    <td>Morning Exercise/Review</td>
+    <td>Morning Exercise/Review</td>
+  </tr>
+  <tr>
+    <td><strong>Mod 1</strong></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/angular-intro">Intro to AngularJS</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/angular-services-and-factories">AngularJS Services, Factories, DI</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/angular-animation">AngularJS - Cool Widgets and Animation</a></td>
+    <td>Angular 1 - Code Along</td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/mean-stack-movies">Mean Stack Movies App</a></td>
+  </tr>
+  <tr>
+    <td><strong>Mod 2</strong></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/angular-calculator-lab">AngularJS LAB - Advanced Calculator & Tic Tac Toe</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/angular-services-and-factories">AngularJS Services, Factories, DI</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/angular-http">Intro to $http and promises</a></td>
+    <td>Angular 1 - Code Along</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/technical-interviewing">Preparing for a Career in Software Development</a></td>
+  </tr>
+  <tr>
+    <td><strong>Mod 3</strong></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/angular-intro/blob/master/part-3.md">AngularJS Components</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/angular-forms">AngularJS Forms and Form Validation</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/angular-ui-router">Routing with uiRouter</a></td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/mean-stack-movies">Mean Stack Movies App</a></td>
+    <td>Holiday Break</td>
+  </tr>
+  <tr>
+    <td><strong>Mod 4</strong></td>
+    <td>LAB Time</td>
+    <td>LAB - Services and Factories</td>
+    <td>LAB - UI Router</td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/mean-stack-movies">Mean Stack Movies App</a></td>
+    <td>Holiday Break</td>
+  </tr>
+  <tr>
+    <td><strong>Training</strong></td>
+    <td>Review/Homework</td>
+    <td>Review/Homework</td>
+    <td>Review/Homework</td>
+    <td>Review/Homework</td>
+    <td>Holiday Break</td>
+  </tr>
+</tbody></table>
+
 #### Week 6 - Project 2, AngularJS
 <table><thead>
   <tr>
