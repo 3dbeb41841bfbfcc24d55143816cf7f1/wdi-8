@@ -701,6 +701,6 @@ Time          | Monday-Friday    |
 
 ## Links
 
-* [Google Calendar]()
+* [Google Calendar](https://calendar.google.com/calendar/embed?src=generalassemb.ly_003glv5s4t3ak7p01s6s62pcj4%40group.calendar.google.com&ctz=America/Los_Angeles)
 * [Scope and Sequence]()
 
