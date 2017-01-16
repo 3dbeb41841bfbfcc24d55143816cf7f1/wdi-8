@@ -23,33 +23,33 @@
     <td><strong>Mod 1</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
     <td>Ruby Functions & Methods</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Intro to OOP</td>
+    <td>Intro to DB + SQL</td>
+    <td>Intro to Active Record</td>
   </tr>
   <tr>
     <td><strong>Mod 2</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
     <td>Ruby Hashes and Arrays</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>OOP Code Along</td>
+    <td>LAB - DB</td>
+    <td>Active Record Associations</td>
   </tr>
   <tr>
     <td><strong>Mod 3</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
     <td>Ruby Enumerations</td>
-    <td></td>
-    <td></td>
+    <td>Inheritance</td>
+    <td>SQL Joins</td>
     <td></td>
   </tr>
   <tr>
     <td><strong>Mod 4</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
     <td>DSI2/WDI8 Outcomes: Behavioral Interview Prep</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>OOP Code Along</td>
+    <td>Install rbenv and bundler</td>
+    <td>LAB - Associations</td>
   </tr>
   <tr>
     <td><strong>Training</strong></td>
