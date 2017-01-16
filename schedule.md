@@ -41,7 +41,7 @@
     <td>Ruby Enumerations</td>
     <td>Inheritance</td>
     <td>SQL Joins</td>
-    <td></td>
+    <td>LAB - Associations</td>
   </tr>
   <tr>
     <td><strong>Mod 4</strong></td>
