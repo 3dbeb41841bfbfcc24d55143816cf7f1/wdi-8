@@ -22,7 +22,7 @@
   <tr>
     <td><strong>Mod 1</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
-    <td></td>
+    <td>Ruby Functions & Methods</td>
     <td></td>
     <td></td>
     <td></td>
@@ -30,7 +30,7 @@
   <tr>
     <td><strong>Mod 2</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
-    <td></td>
+    <td>Ruby Hashes and Arrays</td>
     <td></td>
     <td></td>
     <td></td>
@@ -38,7 +38,7 @@
   <tr>
     <td><strong>Mod 3</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
-    <td></td>
+    <td>Ruby Enumerations</td>
     <td></td>
     <td></td>
     <td></td>
@@ -46,7 +46,7 @@
   <tr>
     <td><strong>Mod 4</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
-    <td></td>
+    <td>DSI2/WDI8 Outcomes: Behavioral Interview Prep</td>
     <td></td>
     <td></td>
     <td></td>
@@ -54,7 +54,7 @@
   <tr>
     <td><strong>Training</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
-    <td></td>
+    <td>Ruby Koans/Typing practice/Chapters 32-40 Learn Ruby the Hard Way/Lightning Talk Prep</td>
     <td></td>
     <td></td>
     <td></td>
