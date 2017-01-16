@@ -688,9 +688,9 @@ Time          | Monday-Friday    |
 **Instructors**
 
 - Dr. Mike Hopper - mike.hopper@ga.co | [GitHub](https://github.com/drmikeh)
-- Ben Manning - bmanning@me.com  
-- Maren Woodruff - 
-- Shawn Johnson - 
+- Ben Manning - bmanning@me.com | [Github](https://github.com/ben-manning)
+- Maren Woodruff - marenwoodruff@gmail.com | [Github](https://github.com/marenwoodruff)
+- Shawn Johnson - digitalsleep@gmail.com | [Github](https://github.com/digitalsleep)
   
 **Slack**
 
