@@ -54,7 +54,7 @@
   <tr>
     <td><strong>Training</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
-    <td>Ruby Koans/Typing practice/Chapters 32-40 Learn Ruby the Hard Way/Lightning Talk Prep</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week10.md#day-2">Ruby Koans/Typing practice/Chapters 32-40 Learn Ruby the Hard Way/Lightning Talk Prep</a></td>
     <td></td>
     <td></td>
     <td></td>
