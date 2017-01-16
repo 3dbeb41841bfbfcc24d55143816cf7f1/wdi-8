@@ -1,5 +1,66 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Welcome to WDI 8
 
+#### Week 9 - Group Projects/Ruby
+<table><thead>
+  <tr>
+    <th>Time</th>
+    <th>Day 1</th>
+    <th>Day 2</th>
+    <th>Day 3</th>
+    <th>Day 4</th>
+    <th>Day 5</th>
+  </tr>
+</thead><tbody>
+  <tr>
+    <td><strong>WarmUp</strong></td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Late Start/No Warm Up</td>
+  </tr>
+  <tr>
+    <td><strong>Mod 1</strong></td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Project Retrospective</td>
+  </tr>
+  <tr>
+    <td><strong>Mod 2</strong></td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Outcomes</td>
+  </tr>
+  <tr>
+    <td><strong>Mod 3</strong></td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-intro">Ruby Data Types and Expressions</a></td>
+  </tr>
+  <tr>
+    <td><strong>Mod 4</strong></td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-pry-and-control-flow">Pry & Control Flow</a></td>
+  </tr>
+  <tr>
+    <td><strong>Training</strong></td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+    <td>Group Projects</td>
+  </tr>
+</tbody></table>
+
 #### Week 8 - AngularJS/Group Projects
 <table><thead>
   <tr>
