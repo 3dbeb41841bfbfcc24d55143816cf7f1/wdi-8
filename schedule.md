@@ -1,5 +1,66 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Welcome to WDI 8
 
+#### Week 10 - Ruby/Intro to Rails
+<table><thead>
+  <tr>
+    <th>Time</th>
+    <th>Day 1</th>
+    <th>Day 2</th>
+    <th>Day 3</th>
+    <th>Day 4</th>
+    <th>Day 5</th>
+  </tr>
+</thead><tbody>
+  <tr>
+    <td><strong>WarmUp</strong></td>
+    <td>MLK Jr. Holiday (No Class)</td>
+    <td>Warm Up</td>
+    <td>Warm Up</td>
+    <td>Warm Up</td>
+    <td>Warm Up</td>
+  </tr>
+  <tr>
+    <td><strong>Mod 1</strong></td>
+    <td>MLK Jr. Holiday (No Class)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Mod 2</strong></td>
+    <td>MLK Jr. Holiday (No Class)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Mod 3</strong></td>
+    <td>MLK Jr. Holiday (No Class)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Mod 4</strong></td>
+    <td>MLK Jr. Holiday (No Class)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Training</strong></td>
+    <td>MLK Jr. Holiday (No Class)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 #### Week 9 - Group Projects/Ruby
 <table><thead>
   <tr>
