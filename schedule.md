@@ -57,7 +57,7 @@
     <td>Group Projects</td>
     <td>Group Projects</td>
     <td>Group Projects</td>
-    <td>Group Projects</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week9.md#day-5">Intro to Ruby Assignments</a></td>
   </tr>
 </tbody></table>
 
