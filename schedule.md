@@ -46,15 +46,15 @@
   <tr>
     <td><strong>Mod 4</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
-    <td>DSI2/WDI8 Outcomes: Behavioral Interview Prep</td>
+    <td>DSI2/WDI8 Outcomes</td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-oop-lab">OOP Code Along</a></td>
-    <td>Install RVM</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/installfest/blob/master/environment-setup/ruby-on-rails-stack.md">Install RVM</a></td>
     <td>LAB - Associations</td>
   </tr>
   <tr>
     <td><strong>Training</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
-    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week10.md#day-2">Ruby Koans/Typing practice/Chapters 32-40 Learn Ruby the Hard Way/Lightning Talk Prep</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week10.md#day-2">Ruby Koans etc..</a></td>
     <td></td>
     <td></td>
     <td></td>
