@@ -22,33 +22,33 @@
   <tr>
     <td><strong>Mod 1</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
-    <td>Ruby Functions & Methods</td>
-    <td>Intro to OOP</td>
-    <td>Intro to DB + SQL</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-functions-and-methods">Ruby Functions & Methods</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/oop-intro">Intro to OOP</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/sql-intro">Intro to DB + SQL</a></td>
     <td>Intro to Active Record</td>
   </tr>
   <tr>
     <td><strong>Mod 2</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
-    <td>Ruby Hashes and Arrays</td>
-    <td>OOP Code Along</td>
-    <td>LAB - DB</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-hashes-and-arrays">Ruby Hashes and Arrays</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/oop-intro">OOP Code Along</a></td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/library_sql">LAB - DB</a></td>
     <td>Active Record Associations</td>
   </tr>
   <tr>
     <td><strong>Mod 3</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
-    <td>Ruby Enumerations</td>
-    <td>Inheritance</td>
-    <td>SQL Joins</td>
+    <td><a href="https://github.com/ga-wdi-lessons/ruby-enumerables">Ruby Enumerations</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-oop-inheritance">Inheritance</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/sql-joins">SQL Joins</a></td>
     <td>LAB - Associations</td>
   </tr>
   <tr>
     <td><strong>Mod 4</strong></td>
     <td>MLK Jr. Holiday (No Class)</td>
     <td>DSI2/WDI8 Outcomes: Behavioral Interview Prep</td>
-    <td>OOP Code Along</td>
-    <td>Install rbenv and bundler</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-oop-lab">OOP Code Along</a></td>
+    <td>Install RVM</td>
     <td>LAB - Associations</td>
   </tr>
   <tr>
