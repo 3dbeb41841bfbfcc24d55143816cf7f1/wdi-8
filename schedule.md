@@ -1,5 +1,66 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Welcome to WDI 8
 
+#### Week 10 - Ruby/Intro to Rails
+<table><thead>
+  <tr>
+    <th>Time</th>
+    <th>Day 1</th>
+    <th>Day 2</th>
+    <th>Day 3</th>
+    <th>Day 4</th>
+    <th>Day 5</th>
+  </tr>
+</thead><tbody>
+  <tr>
+    <td><strong>WarmUp</strong></td>
+    <td>MLK Jr. Holiday (No Class)</td>
+    <td>Warm Up</td>
+    <td>Warm Up</td>
+    <td>Warm Up</td>
+    <td>Warm Up</td>
+  </tr>
+  <tr>
+    <td><strong>Mod 1</strong></td>
+    <td>MLK Jr. Holiday (No Class)</td>
+    <td>Ruby Functions & Methods</td>
+    <td>Intro to OOP</td>
+    <td>Intro to DB + SQL</td>
+    <td>Intro to Active Record</td>
+  </tr>
+  <tr>
+    <td><strong>Mod 2</strong></td>
+    <td>MLK Jr. Holiday (No Class)</td>
+    <td>Ruby Hashes and Arrays</td>
+    <td>OOP Code Along</td>
+    <td>LAB - DB</td>
+    <td>Active Record Associations</td>
+  </tr>
+  <tr>
+    <td><strong>Mod 3</strong></td>
+    <td>MLK Jr. Holiday (No Class)</td>
+    <td>Ruby Enumerations</td>
+    <td>Inheritance</td>
+    <td>SQL Joins</td>
+    <td>LAB - Associations</td>
+  </tr>
+  <tr>
+    <td><strong>Mod 4</strong></td>
+    <td>MLK Jr. Holiday (No Class)</td>
+    <td>DSI2/WDI8 Outcomes: Behavioral Interview Prep</td>
+    <td>OOP Code Along</td>
+    <td>Install rbenv and bundler</td>
+    <td>LAB - Associations</td>
+  </tr>
+  <tr>
+    <td><strong>Training</strong></td>
+    <td>MLK Jr. Holiday (No Class)</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week10.md#day-2">Ruby Koans/Typing practice/Chapters 32-40 Learn Ruby the Hard Way/Lightning Talk Prep</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 #### Week 9 - Group Projects/Ruby
 <table><thead>
   <tr>
@@ -57,7 +118,7 @@
     <td>Group Projects</td>
     <td>Group Projects</td>
     <td>Group Projects</td>
-    <td>Group Projects</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week9.md#day-5">Intro to Ruby Assignments</a></td>
   </tr>
 </tbody></table>
 
@@ -627,9 +688,9 @@ Time          | Monday-Friday    |
 **Instructors**
 
 - Dr. Mike Hopper - mike.hopper@ga.co | [GitHub](https://github.com/drmikeh)
-- Ben Manning - bmanning@me.com  
-- Maren Woodruff - 
-- Shawn Johnson - 
+- Ben Manning - bmanning@me.com | [Github](https://github.com/ben-manning)
+- Maren Woodruff - marenwoodruff@gmail.com | [Github](https://github.com/marenwoodruff)
+- Shawn Johnson - digitalsleep@gmail.com | [Github](https://github.com/digitalsleep)
   
 **Slack**
 
@@ -640,6 +701,6 @@ Time          | Monday-Friday    |
 
 ## Links
 
-* [Google Calendar]()
+* [Google Calendar](https://calendar.google.com/calendar/embed?src=generalassemb.ly_003glv5s4t3ak7p01s6s62pcj4%40group.calendar.google.com&ctz=America/Los_Angeles)
 * [Scope and Sequence]()
 
