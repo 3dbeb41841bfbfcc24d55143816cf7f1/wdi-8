@@ -7,6 +7,8 @@ You should aim to answer the following questions:
 - What problem does the gem solve?
 - How do you use it in a rails app?
 
+You can sign up <a href="https://docs.google.com/spreadsheets/d/1NP4HdfkvIkKKDBcWJ4vV0sH86sYowgz9qSjcFfFa-Pk/edit#gid=0">here</a>.
+
 ## Topics:
 Additional gems are listed [here](https://github.com/markets/awesome-ruby) and [here](http://code.tutsplus.com/articles/24-extremely-useful-ruby-gems-for-web-development--net-23863)
 
