@@ -13,8 +13,8 @@
 </thead><tbody>
   <tr>
     <td><strong>WarmUp</strong></td>
-    <td>Warm Up</td>
-    <td>Radix Sort</td>
+    <td><a href="https://repl.it/FOje/2">Rug Machine</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-algorithms-drills/tree/master/radix-sort">Radix Sort</a></td>
     <td>Warm Up</td>
     <td>Warm Up</td>
     <td>Warm Up</td>
@@ -22,7 +22,7 @@
   <tr>
     <td><strong>Mod 1</strong></td>
     <td>Intro to Rails</td>
-    <td>Rails Views and Controllers</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/rails-views-and-controller">Rails Views and Controllers</a></td>
     <td>Asset Pipeline/Form Helpers</td>
     <td>Vagabond Project</td>
     <td>Vagabond Project</td>
