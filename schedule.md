@@ -30,7 +30,7 @@
   <tr>
     <td><strong>Mod 2</strong></td>
     <td>Intro to Rails (continued)</td>
-    <td>Pet Lab</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/pet-lab">Pet Lab</a></td>
     <td>Asset Pipeline (continued)</td>
     <td>Vagabond Project</td>
     <td>Vagabond Project</td>
