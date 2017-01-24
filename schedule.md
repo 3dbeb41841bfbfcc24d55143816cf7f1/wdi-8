@@ -14,50 +14,50 @@
   <tr>
     <td><strong>WarmUp</strong></td>
     <td>Warm Up</td>
-    <td>Warm Up</td>
+    <td>Radix Sort</td>
     <td>Warm Up</td>
     <td>Warm Up</td>
     <td>Warm Up</td>
   </tr>
   <tr>
     <td><strong>Mod 1</strong></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Intro to Rails</td>
+    <td>Rails Views and Controllers</td>
+    <td>Asset Pipeline/Form Helpers</td>
+    <td>Vagabond Project</td>
+    <td>Vagabond Project</td>
   </tr>
   <tr>
     <td><strong>Mod 2</strong></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Intro to Rails (continued)</td>
+    <td>Pet Lab</td>
+    <td>Asset Pipeline (continued)</td>
+    <td>Vagabond Project</td>
+    <td>Vagabond Project</td>
   </tr>
   <tr>
     <td><strong>Mod 3</strong></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Active Record Migrations + Validations</td>
+    <td>Rails Resources and Routing</td>
+    <td>Rails 5 with Angular</td>
+    <td>Vagabond Project</td>
+    <td>Vagabond Project</td>
   </tr>
   <tr>
     <td><strong>Mod 4</strong></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>AR Migrations Lab</td>
+    <td>Rails Routing Lab</td>
+    <td>Rails 5 with Angular</td>
+    <td>Vagabond Project</td>
+    <td>Vagabond Project</td>
   </tr>
   <tr>
     <td><strong>Training</strong></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Getting Started with Rails</td>
+    <td>Asset Pipeline Guide</td>
+    <td>Rock n Rails</td>
+    <td>Vagabond Project</td>
+    <td>Vagabond Project</td>
   </tr>
 </tbody></table>
 
