@@ -5,10 +5,10 @@
 - <a href="https://github.com/Sharique-Hasan/SaylaniBatch2-JavaScript/blob/master/A%20Smarter%20Way%20to%20Learn%20JavaScript.pdf">A Smarter Way to Learn JS</a>
 - <a href="https://typing.io/">Typing Practice for Developers</a>
 
-### Day 2 (Ruby Enums + Typing Practice + "Learn Ruby the Hard Way"[Ch. 32-40] + "A Smarter Way to Learn JS"[Ch. 11-20])
-- <a href="https://typing.io/">Typing Practice for Developers</a>
-- <a href="https://learnrubythehardway.org/book/">Learn Ruby The Hard Way</a> 
-- <a href="http://rubykoans.com/">Ruby Koans</a>
+### Day 2 (Asset Pipeline Docs + Typing Practice + "A Smarter Way to Learn JS"[Ch. 31-40])
+- <a href="http://guides.rubyonrails.org/asset_pipeline.html">Asset Pipeline</a>
+- <a href="http://www.cpp.edu/~jcmcgarvey/513_2016/ASmarterWaytoLearnJavaScript.pdf">A Smarter Way to Learn JS</a>
+- <a href="https://typing.io/">Typing Practice</a>
 
 ### Day 3 ("Learn Ruby the Hard Way"[Ch. 43-52] + Typing Practice)
 - <a href="https://typing.io/">Typing Practice for Developers</a>
