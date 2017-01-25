@@ -114,11 +114,11 @@
   </tr>
   <tr>
     <td><strong>Training</strong></td>
-    <td>MLK Jr. Holiday (No Class)</td>
-    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week10.md#day-2">Ruby Koans etc..</a></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week10.md#day-1">Challenges</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week10.md#day-2">Challenges</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week10.md#day-3">Challenges</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week10.md#day-4">Challenges</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week10.md#day-5">Challenges</a></td>
   </tr>
 </tbody></table>
 
