@@ -10,16 +10,11 @@
 - <a href="http://www.cpp.edu/~jcmcgarvey/513_2016/ASmarterWaytoLearnJavaScript.pdf">A Smarter Way to Learn JS</a>
 - <a href="https://typing.io/">Typing Practice</a>
 
-### Day 3 ("Learn Ruby the Hard Way"[Ch. 43-52] + Typing Practice)
-- <a href="https://typing.io/">Typing Practice for Developers</a>
-- <a href="https://learnrubythehardway.org/book/">Learn Ruby The Hard Way</a>
+### Day 3 ("Rock n Rails" + Typing Practice)
+- <a href="https://typing.io/">Typing Practice</a>
+- <a href="https://github.com/ATL-WDI-Exercises/rock-n-rails">Rock n Rails</a>
 
-### Day 4 (Active Record Docs + Typing Practice + Chapters 21-30 of "A Smarter Way to Learn JS")
-- <a href="http://guides.rubyonrails.org/active_record_basics.html">Active Record Basics</a>
-- <a href="https://github.com/Sharique-Hasan/SaylaniBatch2-JavaScript/blob/master/A%20Smarter%20Way%20to%20Learn%20JavaScript.pdf">A Smarter Way</a>
-- <a href="https://typing.io/">Typing Practice for Developers</a>
+### Day 4 
 
+### Day 5 
 
-### Day 5 (Hartl Tutorial + Lightning Talk Prep + Typing Practice)
-- <a href="https://www.railstutorial.org/book">Michael Hartl Tutorial</a>
-- <a href="https://typing.io/">Typing Practice for Developers</a>
