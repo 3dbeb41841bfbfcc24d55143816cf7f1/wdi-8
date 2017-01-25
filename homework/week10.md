@@ -9,7 +9,8 @@
 - <a href="http://rubykoans.com/">Ruby Koans</a>
 
 ##Day 3
-
+- <a href="https://typing.io/">Typing Practice for Developers</a>
+- <a href="https://learnrubythehardway.org/book/">Learn Ruby The Hard Way</a>
 
 ##Day 4
 
