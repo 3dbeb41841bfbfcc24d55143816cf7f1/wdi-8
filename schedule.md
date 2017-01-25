@@ -102,7 +102,7 @@
     <td><a href="https://github.com/ga-wdi-lessons/ruby-enumerables">Ruby Enumerations</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-oop-inheritance">Inheritance</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/sql-joins">SQL Joins</a></td>
-    <td>LAB - Associations</td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/fridge_tracker">LAB - Associations</a></td>
   </tr>
   <tr>
     <td><strong>Mod 4</strong></td>
@@ -110,7 +110,7 @@
     <td>DSI2/WDI8 Outcomes</td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-oop-lab">OOP Code Along</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/installfest/blob/master/environment-setup/ruby-on-rails-stack.md">Install RVM</a></td>
-    <td>LAB - Associations</td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/fridge_tracker">LAB - Associations</a></td>
   </tr>
   <tr>
     <td><strong>Training</strong></td>
