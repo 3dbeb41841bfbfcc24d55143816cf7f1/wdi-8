@@ -86,7 +86,7 @@
     <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-functions-and-methods">Ruby Functions & Methods</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/oop-intro">Intro to OOP</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/sql-intro">Intro to DB + SQL</a></td>
-    <td>Intro to Active Record</td>
+    <td><a href="https://github.com/ga-wdi-lessons/activerecord-intro">Intro to Active Record</a></td>
   </tr>
   <tr>
     <td><strong>Mod 2</strong></td>
@@ -94,7 +94,7 @@
     <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-hashes-and-arrays">Ruby Hashes and Arrays</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/oop-intro">OOP Code Along</a></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/library_sql">LAB - DB</a></td>
-    <td>Active Record Associations</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/active-record-associations">Active Record Associations</a></td>
   </tr>
   <tr>
     <td><strong>Mod 3</strong></td>
