@@ -15,7 +15,7 @@
     <td><strong>WarmUp</strong></td>
     <td><a href="https://repl.it/FOje/2">Rug Machine</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-algorithms-drills/tree/master/radix-sort">Radix Sort</a></td>
-    <td>Warm Up</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-algorithms-drills/tree/master/regex">Ruby RegEx</a></td>
     <td>Warm Up</td>
     <td>Warm Up</td>
   </tr>
