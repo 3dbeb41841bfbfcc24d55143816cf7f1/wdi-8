@@ -53,9 +53,9 @@
   </tr>
   <tr>
     <td><strong>Training</strong></td>
-    <td>Getting Started with Rails</td>
-    <td>Asset Pipeline Guide</td>
-    <td>Rock n Rails</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week11.md#day-1-read-intro-to-railsch-1-8--typing-practice--a-smarter-way-to-learn-jsch-31-40">Getting Started with Rails</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week11.md#day-2-asset-pipeline-docs--typing-practice--a-smarter-way-to-learn-jsch-31-40">Asset Pipeline Guide</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week11.md#day-3-rock-n-rails--typing-practice">Rock n Rails</a></td>
     <td>Vagabond Project</td>
     <td>Vagabond Project</td>
   </tr>
