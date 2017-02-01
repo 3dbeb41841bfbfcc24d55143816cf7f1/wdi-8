@@ -171,7 +171,7 @@
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-routing">Rails Routing Lab</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-asset-pipeline">Asset Pipeline Review</a></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
-    <td>Vagabond Project</td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
   </tr>
   <tr>
     <td><strong>Training</strong></td>
