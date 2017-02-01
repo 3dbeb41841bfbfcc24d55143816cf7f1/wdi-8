@@ -116,7 +116,7 @@
     <td><strong>Training</strong></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/ruby-lightning-talks/README.md">Lightning Talk Prep</a></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/rails_bog_app">Bog App</a></td>
-    <td><a href="https://github.com/ATL-WDI-Exercises/rails_bog_app">Bog App</a></td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/public_library_app">Library Public App</a></td>
     <td>Project 4</td>
     <td>Project 4</td>
   </tr>
