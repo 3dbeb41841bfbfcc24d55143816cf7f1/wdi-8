@@ -61,7 +61,7 @@
   </tr>
 </tbody></table>
 
-#### Week 12 - Ruby on Rails Continued
+#### Week 12 - Vagabond/Rails Continued/Project 4
 <table><thead>
   <tr>
     <th>Time</th>
@@ -74,7 +74,7 @@
 </thead><tbody>
   <tr>
     <td><strong>WarmUp</strong></td>
-    <td></td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -82,7 +82,7 @@
   </tr>
   <tr>
     <td><strong>Mod 1</strong></td>
-    <td></td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td><strong>Mod 2</strong></td>
-    <td></td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond Presentation</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -138,39 +138,39 @@
     <td><a href="https://repl.it/FOje/2">Rug Machine</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-algorithms-drills/tree/master/radix-sort">Radix Sort</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-algorithms-drills/tree/master/regex">Ruby RegEx</a></td>
-    <td>Warm Up</td>
-    <td>Warm Up</td>
+    <td>Build a Blog</td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
   </tr>
   <tr>
     <td><strong>Mod 1</strong></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-intro/blob/master/README.md">Intro to Rails</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-views-and-controller">Rails Views and Controllers</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-asset-pipeline">Asset Pipeline/Form Helpers</a></td>
-    <td>Vagabond Project</td>
-    <td>Vagabond Project</td>
+    <td>Build a Blog</td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
   </tr>
   <tr>
     <td><strong>Mod 2</strong></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-intro/blob/master/README.md">Intro to Rails (continued)</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/pet-lab">Pet Lab</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-asset-pipeline">Asset Pipeline (continued)</a></td>
-    <td>Vagabond Project</td>
-    <td>Vagabond Project</td>
+    <td>Build a Blog</td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
   </tr>
   <tr>
     <td><strong>Mod 3</strong></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-active-record-migrations">Active Record Migrations + Validations</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-routing">Rails Resources and Routing</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-asset-pipeline">Asset Pipeline Review</a></td>
-    <td>Vagabond Project</td>
-    <td>Vagabond Project</td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
   </tr>
   <tr>
     <td><strong>Mod 4</strong></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/rails-active-record-migrations">AR Migrations Lab</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-routing">Rails Routing Lab</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-asset-pipeline">Asset Pipeline Review</a></td>
-    <td>Vagabond Project</td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
     <td>Vagabond Project</td>
   </tr>
   <tr>
@@ -178,8 +178,8 @@
     <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week11.md#day-1-read-intro-to-railsch-1-8--typing-practice--a-smarter-way-to-learn-jsch-31-40">Getting Started with Rails</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week11.md#day-2-asset-pipeline-docs--typing-practice--a-smarter-way-to-learn-jsch-31-40">Asset Pipeline Guide</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week11.md#day-3-rock-n-rails--typing-practice">Rock n Rails</a></td>
-    <td>Vagabond Project</td>
-    <td>Vagabond Project</td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
   </tr>
 </tbody></table>
 
