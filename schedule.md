@@ -75,7 +75,7 @@
   <tr>
     <td><strong>WarmUp</strong></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
-    <td>Lightning Talk Prep</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/ruby-lightning-talks/README.md">Lightning Talk Prep</a></td>
     <td>Ruby Bubble Sort/TDD</td>
     <td>Rails App Zero to Deployed</td>
     <td>Project 4</td>
@@ -83,7 +83,7 @@
   <tr>
     <td><strong>Mod 1</strong></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
-    <td>Lightning Talks</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/ruby-lightning-talks/README.md">Lightning Talks</a></td>
     <td>Rails Authentication</td>
     <td>Rails App Zero to Deployed</td>
     <td>Project 4</td>
@@ -91,14 +91,14 @@
   <tr>
     <td><strong>Mod 2</strong></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond Presentation</a></td>
-    <td>Lightning Talks</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/ruby-lightning-talks/README.md">Lightning Talks</a></td>
     <td>Rails Authorization</td>
     <td>Rails App Zero to Deployed</td>
     <td>Project 4</td>
   </tr>
   <tr>
     <td><strong>Mod 3</strong></td>
-    <td>Lightning Talk Prep/Vagabond Retrospective</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/ruby-lightning-talks/README.md">Lightning Talk Prep/Vagabond Retrospective</a></td>
     <td>Bog App/Mock Interviews</td>
     <td>Bog App/Mock Interviews</td>
     <td>Project 4</td>
@@ -106,7 +106,7 @@
   </tr>
   <tr>
     <td><strong>Mod 4</strong></td>
-    <td>Lightning Talk Prep</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/ruby-lightning-talks/README.md">Lightning Talk Prep</a></td>
     <td>Outcomes</td>
     <td>Bog App/Mock Interviews</td>
     <td>Project 4</td>
@@ -114,7 +114,7 @@
   </tr>
   <tr>
     <td><strong>Training</strong></td>
-    <td>Lightning Talk Prep</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/ruby-lightning-talks/README.md">Lightning Talk Prep</a></td>
     <td>Bog App</td>
     <td>Bog App</td>
     <td>Project 4</td>
