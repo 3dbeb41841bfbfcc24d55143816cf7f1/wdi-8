@@ -99,8 +99,8 @@
   <tr>
     <td><strong>Mod 3</strong></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/ruby-lightning-talks/README.md">Lightning Talk Prep/Vagabond Retrospective</a></td>
-    <td>Bog App/Mock Interviews</td>
-    <td>Bog App/Mock Interviews</td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/rails_bog_app">Bog App/Mock Interviews</a></td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/rails_bog_app">Bog App/Mock Interviews</a></td>
     <td>Project 4</td>
     <td>Project 4</td>
   </tr>
@@ -108,15 +108,15 @@
     <td><strong>Mod 4</strong></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/ruby-lightning-talks/README.md">Lightning Talk Prep</a></td>
     <td>Outcomes</td>
-    <td>Bog App/Mock Interviews</td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/rails_bog_app">Bog App/Mock Interviews</a></td>
     <td>Project 4</td>
     <td>Project 4</td>
   </tr>
   <tr>
     <td><strong>Training</strong></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/ruby-lightning-talks/README.md">Lightning Talk Prep</a></td>
-    <td>Bog App</td>
-    <td>Bog App</td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/rails_bog_app">Bog App</a></td>
+    <td><a href="https://github.com/ATL-WDI-Exercises/rails_bog_app">Bog App</a></td>
     <td>Project 4</td>
     <td>Project 4</td>
   </tr>
