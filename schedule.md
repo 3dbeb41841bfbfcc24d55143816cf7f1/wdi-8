@@ -138,7 +138,7 @@
     <td><a href="https://repl.it/FOje/2">Rug Machine</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-algorithms-drills/tree/master/radix-sort">Radix Sort</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-algorithms-drills/tree/master/regex">Ruby RegEx</a></td>
-    <td>Build a Blog</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/atl-blog">Build a Blog</a></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
   </tr>
   <tr>
@@ -146,7 +146,7 @@
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-intro/blob/master/README.md">Intro to Rails</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-views-and-controller">Rails Views and Controllers</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-asset-pipeline">Asset Pipeline/Form Helpers</a></td>
-    <td>Build a Blog</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/atl-blog">Build a Blog</a></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
   </tr>
   <tr>
@@ -154,7 +154,7 @@
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-intro/blob/master/README.md">Intro to Rails (continued)</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/pet-lab">Pet Lab</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-asset-pipeline">Asset Pipeline (continued)</a></td>
-    <td>Build a Blog</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/atl-blog">Build a Blog</a></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
   </tr>
   <tr>
