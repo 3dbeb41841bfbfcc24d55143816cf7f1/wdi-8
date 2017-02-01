@@ -145,7 +145,7 @@
     <td><strong>Mod 1</strong></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-intro/blob/master/README.md">Intro to Rails</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-views-and-controller">Rails Views and Controllers</a></td>
-    <td>Asset Pipeline/Form Helpers</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/rails-asset-pipeline">Asset Pipeline/Form Helpers</a></td>
     <td>Vagabond Project</td>
     <td>Vagabond Project</td>
   </tr>
@@ -153,23 +153,23 @@
     <td><strong>Mod 2</strong></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-intro/blob/master/README.md">Intro to Rails (continued)</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/pet-lab">Pet Lab</a></td>
-    <td>Asset Pipeline (continued)</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/rails-asset-pipeline">Asset Pipeline (continued)</a></td>
     <td>Vagabond Project</td>
     <td>Vagabond Project</td>
   </tr>
   <tr>
     <td><strong>Mod 3</strong></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-active-record-migrations">Active Record Migrations + Validations</a></td>
-    <td>Rails Resources and Routing</td>
-    <td>Rails 5 with Angular</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/rails-routing">Rails Resources and Routing</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/rails-asset-pipeline">Asset Pipeline Review</a></td>
     <td>Vagabond Project</td>
     <td>Vagabond Project</td>
   </tr>
   <tr>
     <td><strong>Mod 4</strong></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/rails-active-record-migrations">AR Migrations Lab</a></td>
-    <td>Rails Routing Lab</td>
-    <td>Rails 5 with Angular</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/rails-routing">Rails Routing Lab</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/rails-asset-pipeline">Asset Pipeline Review</a></td>
     <td>Vagabond Project</td>
     <td>Vagabond Project</td>
   </tr>
