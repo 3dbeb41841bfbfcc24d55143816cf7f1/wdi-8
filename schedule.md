@@ -320,49 +320,49 @@
     <td><strong>WarmUp</strong></td>
     <td>Morning Exercise/Review</td>
     <td>Morning Exercise/Review</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
   </tr>
   <tr>
     <td><strong>Mod 1</strong></td>
     <td>Angular Review</td>
     <td>Angular Book App</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
   </tr>
   <tr>
     <td><strong>Mod 2</strong></td>
     <td>Angular Review</td>
     <td>Angular Book App</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
   </tr>
   <tr>
     <td><strong>Mod 3</strong></td>
     <td>Javascript Review</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
   </tr>
   <tr>
     <td><strong>Mod 4</strong></td>
     <td>Review/Homework</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
   </tr>
   <tr>
     <td><strong>Training</strong></td>
     <td>Review/Homework</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
   </tr>
 </tbody></table>
 
