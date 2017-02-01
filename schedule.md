@@ -161,7 +161,7 @@
     <td><strong>Mod 3</strong></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-active-record-migrations">Active Record Migrations + Validations</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-routing">Rails Resources and Routing</a></td>
-    <td><a href="https://github.com/ATL-WDI-Curriculum/rails-asset-pipeline">Asset Pipeline Review</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/active-record-associations/blob/master/associations_marc_lesson_notes.pdf">Asset Pipeline Review</a></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
   </tr>
@@ -169,7 +169,7 @@
     <td><strong>Mod 4</strong></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/rails-active-record-migrations">AR Migrations Lab</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/rails-routing">Rails Routing Lab</a></td>
-    <td><a href="https://github.com/ATL-WDI-Curriculum/rails-asset-pipeline">Asset Pipeline Review</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/active-record-associations/blob/master/associations_marc_lesson_notes.pdf">Asset Pipeline Review</a></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
   </tr>
