@@ -13,51 +13,51 @@
 </thead><tbody>
   <tr>
     <td><strong>WarmUp</strong></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4</td>
   </tr>
   <tr>
     <td><strong>Mod 1</strong></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4</td>
   </tr>
   <tr>
     <td><strong>Mod 2</strong></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4 Presentations</td>
   </tr>
   <tr>
     <td><strong>Mod 3</strong></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4 Presentations</td>
   </tr>
   <tr>
     <td><strong>Mod 4</strong></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Graduation</td>
   </tr>
   <tr>
     <td><strong>Training</strong></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Project 4</td>
+    <td>Rest Up!!</td>
   </tr>
 </tbody></table>
 
