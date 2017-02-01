@@ -76,7 +76,7 @@
     <td><strong>WarmUp</strong></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/ruby-lightning-talks/README.md">Lightning Talk Prep</a></td>
-    <td>Ruby Bubble Sort/TDD</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/bubble_sort_ruby">Ruby Bubble Sort/TDD</a></td>
     <td>Rails App Zero to Deployed</td>
     <td>Project 4</td>
   </tr>
@@ -84,7 +84,7 @@
     <td><strong>Mod 1</strong></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/ruby-lightning-talks/README.md">Lightning Talks</a></td>
-    <td>Rails Authentication</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/rails-authorization_devise">Rails Authentication</a></td>
     <td>Rails App Zero to Deployed</td>
     <td>Project 4</td>
   </tr>
@@ -92,7 +92,7 @@
     <td><strong>Mod 2</strong></td>
     <td><a href="https://github.com/ATL-WDI-Exercises/project-vagabond">Vagabond Presentation</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/ruby-lightning-talks/README.md">Lightning Talks</a></td>
-    <td>Rails Authorization</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/rails-authorization">Rails Authorization</a></td>
     <td>Rails App Zero to Deployed</td>
     <td>Project 4</td>
   </tr>
