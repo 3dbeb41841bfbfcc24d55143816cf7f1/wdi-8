@@ -257,50 +257,50 @@
 </thead><tbody>
   <tr>
     <td><strong>WarmUp</strong></td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
     <td>Late Start/No Warm Up</td>
   </tr>
   <tr>
     <td><strong>Mod 1</strong></td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Project Retrospective</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td>Project 3 Retrospective</td>
   </tr>
   <tr>
     <td><strong>Mod 2</strong></td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
     <td>Outcomes</td>
   </tr>
   <tr>
     <td><strong>Mod 3</strong></td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-intro">Ruby Data Types and Expressions</a></td>
   </tr>
   <tr>
     <td><strong>Mod 4</strong></td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/ruby-pry-and-control-flow">Pry & Control Flow</a></td>
   </tr>
   <tr>
     <td><strong>Training</strong></td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
-    <td>Group Projects</td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
+    <td><a href="https://github.com/ATL-WDI-Curriculum/projects/blob/master/project3.md">Project 3</a></td>
     <td><a href="https://github.com/ATL-WDI-Curriculum/wdi-8/blob/master/homework/week9.md#day-5">Intro to Ruby Assignments</a></td>
   </tr>
 </tbody></table>
